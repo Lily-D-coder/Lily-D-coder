@@ -8,6 +8,6 @@
 - 🧠 Learning: Currently exploring Python for finance and machine learning techniques.
 
 ## 🛠️ Tech Stack:
-- **Programming Languages**: Python, Java
+- **Programming Languages**: Python, Java, JavaScript
 - **Tools and Libraries**: Pandas, NumPy, Matplotlib, Flask, HTML/CSS
 - **Economics Tools**: Stata, Tableau, R (basic knowledge)
