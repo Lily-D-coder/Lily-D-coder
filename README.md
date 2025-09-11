@@ -5,7 +5,7 @@
 ## 💻 What I Do:
 - 🌐 I create projects that combine **economics** and **technology**, such as market analysis tools, data visualization dashboards, and algorithmic trading concepts.
 - 📚 I'm diving deeper into **data science**, **machine learning**, and **financial modeling** to refine my technical skills.
-- 🧠 Learning: Currently exploring Python for finance and machine learning techniques.
+- 🧠 Learning: Currently exploring Python and Java for finance and machine learning techniques.
 
 ## 🛠️ Tech Stack:
 - **Programming Languages**: Python, Java
